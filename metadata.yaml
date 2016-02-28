@@ -1,0 +1,21 @@
+_repo: Leah-Mordecai-A-Novel_4955
+creator:
+  author:
+    agent_name: Abbott, Belle K. (Belle Kendrick)
+    alias: Abbot, Belle K. (Belle Kendrick)
+    gutenberg_agent_id: '1605'
+    url: http://www.gutenberg.org/2009/agents/1605
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4955'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: 'Leah Mordecai: A Novel'
+url: http://www.gutenberg.org/ebooks/4955
