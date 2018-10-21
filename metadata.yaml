@@ -1,5 +1,5 @@
 _repo: Leah-Mordecai-A-Novel_4955
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -23,5 +23,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Fiction'
 - !lcc 'PS'
+- GITenberg
 title: 'Leah Mordecai: A Novel'
 url: http://www.gutenberg.org/ebooks/4955
